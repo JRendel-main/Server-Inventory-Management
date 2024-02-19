@@ -1,0 +1,402 @@
+[
+    {
+        "product_name": "Mix - Cocktail Strawberry Daiquiri",
+        "brand": "http://dummyimage.com/140x100.png/cc0000/ffffff",
+        "price": 2.55,
+        "quantity": 8,
+        "expiration_date": "9/23/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Shrimp - Black Tiger 8 - 12",
+        "brand": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+        "price": 23.35,
+        "quantity": 7,
+        "expiration_date": "10/28/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Beets - Golden",
+        "brand": "http://dummyimage.com/195x100.png/cc0000/ffffff",
+        "price": 27.58,
+        "quantity": 1,
+        "expiration_date": "7/13/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Otomegusa Dashi Konbu",
+        "brand": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+        "price": 62.95,
+        "quantity": 1,
+        "expiration_date": "3/23/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Juice Peach Nectar",
+        "brand": "http://dummyimage.com/136x100.png/cc0000/ffffff",
+        "price": 57.09,
+        "quantity": 2,
+        "expiration_date": "9/3/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Flour - Strong Pizza",
+        "brand": "http://dummyimage.com/228x100.png/dddddd/000000",
+        "price": 9.39,
+        "quantity": 6,
+        "expiration_date": "5/28/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Yogurt - Banana, 175 Gr",
+        "brand": "http://dummyimage.com/220x100.png/dddddd/000000",
+        "price": 61.44,
+        "quantity": 3,
+        "expiration_date": "6/23/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Shrimp - Black Tiger 26/30",
+        "brand": "http://dummyimage.com/128x100.png/dddddd/000000",
+        "price": 39.07,
+        "quantity": 8,
+        "expiration_date": "2/17/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Pastry - Cherry Danish - Mini",
+        "brand": "http://dummyimage.com/185x100.png/ff4444/ffffff",
+        "price": 77.08,
+        "quantity": 3,
+        "expiration_date": "1/23/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Pepper - Red Thai",
+        "brand": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+        "price": 78.59,
+        "quantity": 2,
+        "expiration_date": "4/11/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Snapple Lemon Tea",
+        "brand": "http://dummyimage.com/164x100.png/cc0000/ffffff",
+        "price": 21.56,
+        "quantity": 7,
+        "expiration_date": "11/22/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Tea - Camomele",
+        "brand": "http://dummyimage.com/189x100.png/ff4444/ffffff",
+        "price": 43.53,
+        "quantity": 8,
+        "expiration_date": "3/13/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Sauce - Black Current, Dry Mix",
+        "brand": "http://dummyimage.com/110x100.png/dddddd/000000",
+        "price": 59.26,
+        "quantity": 10,
+        "expiration_date": "9/29/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Momiji Oroshi Chili Sauce",
+        "brand": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+        "price": 34.58,
+        "quantity": 2,
+        "expiration_date": "12/5/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Milk - 1%",
+        "brand": "http://dummyimage.com/183x100.png/dddddd/000000",
+        "price": 40.01,
+        "quantity": 7,
+        "expiration_date": "7/30/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Melon - Watermelon, Seedless",
+        "brand": "http://dummyimage.com/223x100.png/dddddd/000000",
+        "price": 89.49,
+        "quantity": 7,
+        "expiration_date": "5/8/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Wine - Pinot Noir Stoneleigh",
+        "brand": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+        "price": 96.14,
+        "quantity": 5,
+        "expiration_date": "3/5/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Dasheen",
+        "brand": "http://dummyimage.com/113x100.png/5fa2dd/ffffff",
+        "price": 7.77,
+        "quantity": 9,
+        "expiration_date": "3/14/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Everfresh Products",
+        "brand": "http://dummyimage.com/206x100.png/dddddd/000000",
+        "price": 73.11,
+        "quantity": 5,
+        "expiration_date": "12/13/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Shiratamako - Rice Flour",
+        "brand": "http://dummyimage.com/227x100.png/cc0000/ffffff",
+        "price": 68.41,
+        "quantity": 9,
+        "expiration_date": "6/3/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Apple - Delicious, Red",
+        "brand": "http://dummyimage.com/222x100.png/cc0000/ffffff",
+        "price": 74.75,
+        "quantity": 10,
+        "expiration_date": "9/6/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Tart Shells - Sweet, 3",
+        "brand": "http://dummyimage.com/178x100.png/ff4444/ffffff",
+        "price": 59.39,
+        "quantity": 7,
+        "expiration_date": "4/25/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Wine - White, Riesling, Semi - Dry",
+        "brand": "http://dummyimage.com/208x100.png/dddddd/000000",
+        "price": 73.58,
+        "quantity": 6,
+        "expiration_date": "2/7/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Cocoa Powder - Natural",
+        "brand": "http://dummyimage.com/133x100.png/ff4444/ffffff",
+        "price": 19.4,
+        "quantity": 1,
+        "expiration_date": "4/23/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Pepper - Cayenne",
+        "brand": "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+        "price": 11.14,
+        "quantity": 5,
+        "expiration_date": "4/1/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Table Cloth 62x120 White",
+        "brand": "http://dummyimage.com/250x100.png/dddddd/000000",
+        "price": 91.23,
+        "quantity": 6,
+        "expiration_date": "2/18/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Pancetta",
+        "brand": "http://dummyimage.com/230x100.png/cc0000/ffffff",
+        "price": 1.62,
+        "quantity": 2,
+        "expiration_date": "5/29/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Olives - Green, Pitted",
+        "brand": "http://dummyimage.com/201x100.png/ff4444/ffffff",
+        "price": 38.01,
+        "quantity": 8,
+        "expiration_date": "5/9/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Molasses - Fancy",
+        "brand": "http://dummyimage.com/235x100.png/dddddd/000000",
+        "price": 81.41,
+        "quantity": 6,
+        "expiration_date": "1/27/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Soup Campbells - Tomato Bisque",
+        "brand": "http://dummyimage.com/122x100.png/ff4444/ffffff",
+        "price": 97.93,
+        "quantity": 8,
+        "expiration_date": "7/13/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Compound - Orange",
+        "brand": "http://dummyimage.com/112x100.png/ff4444/ffffff",
+        "price": 95.61,
+        "quantity": 2,
+        "expiration_date": "2/1/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Beef - Ox Tail, Frozen",
+        "brand": "http://dummyimage.com/108x100.png/cc0000/ffffff",
+        "price": 90.84,
+        "quantity": 5,
+        "expiration_date": "8/19/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Chervil - Fresh",
+        "brand": "http://dummyimage.com/128x100.png/cc0000/ffffff",
+        "price": 13.3,
+        "quantity": 8,
+        "expiration_date": "2/11/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Pork - Tenderloin, Frozen",
+        "brand": "http://dummyimage.com/194x100.png/cc0000/ffffff",
+        "price": 94.12,
+        "quantity": 10,
+        "expiration_date": "6/21/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Pear - Prickly",
+        "brand": "http://dummyimage.com/132x100.png/ff4444/ffffff",
+        "price": 89.16,
+        "quantity": 4,
+        "expiration_date": "5/28/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Pail With Metal Handle 16l White",
+        "brand": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+        "price": 67.34,
+        "quantity": 3,
+        "expiration_date": "10/23/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Water - Aquafina Vitamin",
+        "brand": "http://dummyimage.com/233x100.png/ff4444/ffffff",
+        "price": 98.32,
+        "quantity": 4,
+        "expiration_date": "6/13/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Daves Island Stinger",
+        "brand": "http://dummyimage.com/222x100.png/5fa2dd/ffffff",
+        "price": 20.15,
+        "quantity": 10,
+        "expiration_date": "12/5/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Apple - Royal Gala",
+        "brand": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+        "price": 69.86,
+        "quantity": 3,
+        "expiration_date": "3/19/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Dill Weed - Dry",
+        "brand": "http://dummyimage.com/159x100.png/dddddd/000000",
+        "price": 73.1,
+        "quantity": 1,
+        "expiration_date": "3/20/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Veal - Leg, Provimi - 50 Lb Max",
+        "brand": "http://dummyimage.com/115x100.png/5fa2dd/ffffff",
+        "price": 30.63,
+        "quantity": 9,
+        "expiration_date": "12/5/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Puree - Strawberry",
+        "brand": "http://dummyimage.com/177x100.png/dddddd/000000",
+        "price": 73.82,
+        "quantity": 6,
+        "expiration_date": "3/31/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Coffee Guatemala Dark",
+        "brand": "http://dummyimage.com/206x100.png/cc0000/ffffff",
+        "price": 69.52,
+        "quantity": 4,
+        "expiration_date": "6/1/2023",
+        "category": "bakery"
+    },
+    {
+        "product_name": "Caviar - Salmon",
+        "brand": "http://dummyimage.com/233x100.png/5fa2dd/ffffff",
+        "price": 8.99,
+        "quantity": 7,
+        "expiration_date": "8/28/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Chocolate - Pistoles, Lactee, Milk",
+        "brand": "http://dummyimage.com/129x100.png/dddddd/000000",
+        "price": 24.25,
+        "quantity": 4,
+        "expiration_date": "6/2/2023",
+        "category": "vegetables"
+    },
+    {
+        "product_name": "Pork - Backfat",
+        "brand": "http://dummyimage.com/179x100.png/dddddd/000000",
+        "price": 57.0,
+        "quantity": 8,
+        "expiration_date": "1/1/2023",
+        "category": "dairy"
+    },
+    {
+        "product_name": "Pastry - Baked Cinnamon Stick",
+        "brand": "http://dummyimage.com/162x100.png/5fa2dd/ffffff",
+        "price": 72.47,
+        "quantity": 2,
+        "expiration_date": "5/27/2023",
+        "category": "fruits"
+    },
+    {
+        "product_name": "Bread Base - Gold Formel",
+        "brand": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+        "price": 32.54,
+        "quantity": 8,
+        "expiration_date": "5/24/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Pork - Back, Long Cut, Boneless",
+        "brand": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+        "price": 12.48,
+        "quantity": 9,
+        "expiration_date": "7/21/2023",
+        "category": "meat"
+    },
+    {
+        "product_name": "Whmis - Spray Bottle Trigger",
+        "brand": "http://dummyimage.com/149x100.png/dddddd/000000",
+        "price": 39.33,
+        "quantity": 8,
+        "expiration_date": "3/28/2023",
+        "category": "dairy"
+    }
+]
